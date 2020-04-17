@@ -1,0 +1,7 @@
+to fix issue with eeglab
+add command:
+
+filter.noise.{4}.raw
+ if(x)
+ 
+ 
